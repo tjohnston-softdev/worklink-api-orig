@@ -1,3 +1,3 @@
 # Changelog
 
-Initial Commit
+Installed dependencies
