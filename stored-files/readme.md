@@ -1,0 +1,1 @@
+This is the root folder for any files that are uploaded onto the server through the API. They will be first stored in the 'temp' folder by default and should be sorted accordingly

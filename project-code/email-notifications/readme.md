@@ -1,0 +1,1 @@
+At this stage, the API does not send any E-Mails. However, E-Mail notifications will likely be implemented in the future
