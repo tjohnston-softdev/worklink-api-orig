@@ -1,3 +1,3 @@
 # Changelog
 
-Readme contents
+Ignored 'js' and 'txt files.
