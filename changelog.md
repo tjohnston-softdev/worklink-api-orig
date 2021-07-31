@@ -1,3 +1,5 @@
 # Changelog
 
-Ignored 'js' and 'txt files.
+**.gitignore**
+* Replaced '*.js' and '*.txt' with 'project-code'
+* Added 'stored-files'
