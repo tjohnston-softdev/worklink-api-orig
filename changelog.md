@@ -1,4 +1,3 @@
 # Changelog
 
-**.gitignore**
-* Added slashes around folder names.
+Added link to database repository.
