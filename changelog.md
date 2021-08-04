@@ -1,3 +1,3 @@
 # Changelog
 
-Added link to database repository.
+Added 'Further Development' section placeholder to readme.
