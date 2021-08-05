@@ -1,3 +1,3 @@
 # Changelog
 
-Wrote 'Further Development' section.
+Reduced whitespace at end of readme.
