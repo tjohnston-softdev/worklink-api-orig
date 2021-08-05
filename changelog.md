@@ -1,3 +1,3 @@
 # Changelog
 
-Added 'Further Development' section placeholder to readme.
+Wrote 'Further Development' section.

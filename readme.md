@@ -18,7 +18,9 @@ This API was designed to use the [Workforce Link client database](https://github
 
 ## Further Development
 
-*PLACEHOLDER*
+As of June 2021, I have decided to start cleaning up backup files of the IT system I designed for Workforce Link. On the 5th of August, I publicly released the database design, a 'Support Worker' test data generation script, and a prototype build of the final product.
+
+These repositories are currently based on the original prototype and, as such, are only intended for reference and not proper usage. I will spend the coming months developing an improved version of the system from scratch. Revised versions of the database and test data generator will be developed and released alongside this new system.
 
 ---
 
