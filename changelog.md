@@ -1,3 +1,3 @@
 # Changelog
 
-Added year to build date.
+Public release
