@@ -2,7 +2,7 @@
 
 This is the original prototype of the Node JS server API that I programmed for Workforce Link's IT system during 2019. It was a purely back-end solution so that our existing share-hosted website can make requests to the server so that we didn't have to migrate anything to different platforms.
 
-The build is dated circa 26 November at 11:55am (AEST). Everything is exactly as it was except for personal information being redacted and placeholder files converted to markdown.
+The build is dated circa 26 November 2019 at 11:55am (AEST). Everything is exactly as it was except for personal information being redacted and placeholder files converted to markdown.
 
 This API was designed to use the [Workforce Link client database](https://github.com/tjohnston-softdev/worklink-database).
 

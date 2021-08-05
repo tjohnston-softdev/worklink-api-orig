@@ -1,3 +1,3 @@
 # Changelog
 
-Reduced whitespace at end of readme.
+Added year to build date.
