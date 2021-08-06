@@ -1,3 +1,3 @@
 # Changelog
 
-Updated 'Further Development'
+This repository has been discontinued.
