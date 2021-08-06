@@ -1,3 +1,3 @@
 # Changelog
 
-Public release
+Updated 'Further Development'
