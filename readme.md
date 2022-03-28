@@ -22,12 +22,7 @@ As of June 2021, I have decided to start cleaning up backup files of the IT syst
 
 These repositories are currently based on the original prototype and, as such, are only intended for reference and not proper usage. ~~I will spend the coming months developing an improved version of the system from scratch. Revised versions of the database and test data generator will be developed and released alongside this new system.~~
 
-**Update**  
-I have decided to discontinue future plans for re-developing the Workforce Link system. Rather than just making it open-source, I was also going to host a public demo for the API. I am by no means a lawyer but I do not want to risk any potential legal action for using their branding in a future project. I had no hesitations revising the projects from [Response](https://github.com/tjohnston-softdev/submission-to-pdf) or [Optim](https://github.com/tjohnston-softdev/fox-controller-app-tests) because I legally own the code (or some generic version of it) and that I do not use their branding in any present-future tense. Granted, I do hold copyright for the original WF prototype and developing a revised version for portfolio reasons may not be illegal in itself. However, I feel that hosting a public demo with the company's name and something resembling their brand might take it a little too far and attract the wrong attention.
-
-I know all of these legal worries are irrational and the chances of them hearing about it are practically zero. The fact is that I no longer associate with WF and I simply have no right to use their name in any future projects. As mentioned, I could always just write new code and skip the demo but I do not want to spend weeks or months developing an entire Node JS server only to have it go to waste, gathering dust in some underground repository. As mentioned, I have a case for revising the original but cleaning the damn thing would be just as, if not more difficult than starting again from scratch. Even then, hosting a public demo would still raise the branding issues that I insist on avoiding.
-
-As for what I might do in the future, I could develop a generic project based on this one. I would be able to showcase the technical skills and host a public demo while using entirely fictional branding and not having to worry about any legal concerns.
+I don't want anything to do with this project in the future. I have moved on with my life and working with more important things.
  
 ---
 
@@ -39,3 +34,4 @@ This build is not being actively supported and I accept no responsibility for ho
 
 As of 6 August 2021, this repository has been officially discontinued.
 
+As of 28 March 2022, I have withdrawn any further plans to reboot this project.
